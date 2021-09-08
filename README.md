@@ -5,8 +5,7 @@ During the event, participants will be working on a problem of Image classificat
 The dataset will contain the following:
 
 Train Dataset: Consists of sample reference sets which can be used by participants to train the Convolution Neural Network. The participants are recommended to use their own training dataset if required. 
-Test Dataset: The test dataset will contain the images to be classified and results to be submitted in the form of a JSON file. More details on the JSON format and a sample provided as part of the dataset.
-
+Test Dataset: The test dataset will contain the images to be classified and results to be submitted in the form of a JSON file.
 
 - train folder
 You can find the NON TEXT images (-ve class) in the ‘background’ sub folder.
